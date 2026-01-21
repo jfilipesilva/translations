@@ -1,3 +1,5 @@
 {
-  "help": "Aide"
+  "common": {
+    "help": "Aide"
+  }
 }
