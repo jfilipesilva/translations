@@ -1,0 +1,10 @@
+{
+  "demo": {
+    "simple": {
+      "text-as-attribute": "Text as attribute",
+      "text-as-content": "Text as content",
+      "text-with-pipe": "Text with pipe"
+    },
+      "title": "Title"
+  }
+}
