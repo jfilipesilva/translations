@@ -1,9 +1,9 @@
 {
   "demo": {
     "simple": {
-      "text-as-attribute": "Text as attribute",
-      "text-as-content": "Text as content",
-      "text-with-pipe": "Text with pipe"
+      "text-as-attribute": "Text as attribute git",
+      "text-as-content": "Text as content git",
+      "text-with-pipe": "Text with pipe git"
     },
       "title": "Title"
   }
